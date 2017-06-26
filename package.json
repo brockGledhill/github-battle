@@ -16,6 +16,7 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.16.2",
+    "query-string": "^4.3.4",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
     "react-router-dom": "^4.1.1"
@@ -30,5 +31,13 @@
     "style-loader": "^0.18.2",
     "webpack": "^3.0.0",
     "webpack-dev-server": "^2.5.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brockGledhill/github-battle.git"
+  },
+  "bugs": {
+    "url": "https://github.com/brockGledhill/github-battle/issues"
+  },
+  "homepage": "https://github.com/brockGledhill/github-battle#readme"
 }
